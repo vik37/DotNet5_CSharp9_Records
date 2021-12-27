@@ -1,0 +1,15 @@
+C:\Users\vikto\source\repos\Records_Example\Records_Example\bin\Debug\net5.0\Records_Example.exe
+C:\Users\vikto\source\repos\Records_Example\Records_Example\bin\Debug\net5.0\Records_Example.deps.json
+C:\Users\vikto\source\repos\Records_Example\Records_Example\bin\Debug\net5.0\Records_Example.runtimeconfig.json
+C:\Users\vikto\source\repos\Records_Example\Records_Example\bin\Debug\net5.0\Records_Example.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Records_Example\Records_Example\bin\Debug\net5.0\Records_Example.dll
+C:\Users\vikto\source\repos\Records_Example\Records_Example\bin\Debug\net5.0\ref\Records_Example.dll
+C:\Users\vikto\source\repos\Records_Example\Records_Example\bin\Debug\net5.0\Records_Example.pdb
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\Records_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\Records_Example.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\Records_Example.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\Records_Example.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\Records_Example.dll
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\ref\Records_Example.dll
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\Records_Example.pdb
+C:\Users\vikto\source\repos\Records_Example\Records_Example\obj\Debug\net5.0\Records_Example.genruntimeconfig.cache

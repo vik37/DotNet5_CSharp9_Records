@@ -1,0 +1,15 @@
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\bin\Debug\net5.0\TopLevelCall.exe
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\bin\Debug\net5.0\TopLevelCall.deps.json
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\bin\Debug\net5.0\TopLevelCall.runtimeconfig.json
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\bin\Debug\net5.0\TopLevelCall.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\bin\Debug\net5.0\TopLevelCall.dll
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\bin\Debug\net5.0\ref\TopLevelCall.dll
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\bin\Debug\net5.0\TopLevelCall.pdb
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\TopLevelCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\TopLevelCall.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\TopLevelCall.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\TopLevelCall.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\TopLevelCall.dll
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\ref\TopLevelCall.dll
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\TopLevelCall.pdb
+C:\Users\vikto\source\repos\Records_Example\TopLevelCall\obj\Debug\net5.0\TopLevelCall.genruntimeconfig.cache
